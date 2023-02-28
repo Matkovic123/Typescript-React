@@ -1,3 +1,18 @@
 [submodule "name-badges"]
 	path = name-badges
 	url = git@github.com:Matkovic123/name-badges.git
+[submodule "typing-children"]
+	path = typing-children
+	url = git@github.com:Matkovic123/typing-children.git
+[submodule "accident-counter"]
+	path = accident-counter
+	url = git@github.com:Matkovic123/accident-counter.git
+[submodule "inspirational-quotes"]
+	path = inspirational-quotes
+	url = https://github.com/Matkovic123/inspirational-quotes
+[submodule "colors"]
+	path = colors
+	url = git@github.com:Matkovic123/colors.git
+[submodule "packing-list"]
+	path = packing-list
+	url = git@github.com:Matkovic123/packing-list.git
