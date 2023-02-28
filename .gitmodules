@@ -1,0 +1,3 @@
+[submodule "name-badges"]
+	path = name-badges
+	url = git@github.com:Matkovic123/name-badges.git
